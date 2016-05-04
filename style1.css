@@ -1,0 +1,11 @@
+body {background-color: lightseagreen}
+h1,h2,h3 {font-family: Helvetica;}
+h1 {background-color:aliceblue; color:black;}
+h2 {background-color:aliceblue; color:black;}
+h3 {background-color:aliceblue; color:black;}
+p{text-align:center; color:white;}
+p{font-family:Helvetica;}
+ul{color:white;}
+h1,h2,h3 {border:2px solid black;text-align:center;}
+h1,h2,h3 {text-decoration:overline;text-decoration:underline;}
+body{background-image: url(rocks);background-repeat:no-repeat;background-position:bottom right}
